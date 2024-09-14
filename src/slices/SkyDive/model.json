@@ -30,7 +30,8 @@
               "blackCherry",
               "strawberryLemonade",
               "watermelon"
-            ]
+            ],
+            "default_value": "lemonLime"
           }
         }
       },
