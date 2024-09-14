@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Winter"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Do sunt laborum voluptate nulla veniam sint. Mollit laborum ipsum duis."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
